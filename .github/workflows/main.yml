@@ -35,7 +35,7 @@ jobs:
         uses: microsoft/setup-msbuild@v1.0.2
         
       - name: Restore NuGet Packages
-        run: nuget restore LearnToMultiply/LearnToMultiply.csproj
+        run: nuget restore LearnToMultiply/LearnToMultiply.sln
        
       - name: Add Source
         run: nuget sources add -Name "PowelAS" -Source "https://nuget.pkg.github.com/PowelAS/index.json" -username "marcin-rybinski" -password "${{ secrets.NugetKEY }}"
