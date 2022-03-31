@@ -29,13 +29,13 @@ jobs:
       - name: NuGet Installation
         uses: nuget/setup-nuget@v1
         with: 
-          nuget-version: "5.2.0"
+          nuget-version: "5.8.0"
        
       - name: Setup MSBuild Path
         uses: microsoft/setup-msbuild@v1.0.2
         
       - name: Restore NuGet Packages
-        run: nuget restore LearnToMultiply/LearnToMultiply.sln
+        run: nuget restore LearnToMultiply/LearnToMultiply.csproj
        
       - name: Add Source
         run: nuget sources add -Name "PowelAS" -Source "https://nuget.pkg.github.com/PowelAS/index.json" -username "marcin-rybinski" -password "${{ secrets.NugetKEY }}"
