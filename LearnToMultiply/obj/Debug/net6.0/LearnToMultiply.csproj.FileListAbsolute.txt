@@ -1,0 +1,15 @@
+C:\repos\LearnToMultiply\LearnToMultiply\bin\Debug\net6.0\LearnToMultiply.exe
+C:\repos\LearnToMultiply\LearnToMultiply\bin\Debug\net6.0\LearnToMultiply.deps.json
+C:\repos\LearnToMultiply\LearnToMultiply\bin\Debug\net6.0\LearnToMultiply.runtimeconfig.json
+C:\repos\LearnToMultiply\LearnToMultiply\bin\Debug\net6.0\LearnToMultiply.dll
+C:\repos\LearnToMultiply\LearnToMultiply\bin\Debug\net6.0\ref\LearnToMultiply.dll
+C:\repos\LearnToMultiply\LearnToMultiply\bin\Debug\net6.0\LearnToMultiply.pdb
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.csproj.AssemblyReference.cache
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.AssemblyInfoInputs.cache
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.AssemblyInfo.cs
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.csproj.CoreCompileInputs.cache
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.dll
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\ref\LearnToMultiply.dll
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.pdb
+C:\repos\LearnToMultiply\LearnToMultiply\obj\Debug\net6.0\LearnToMultiply.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DMo7okNa4MkotWll7dUOqx+ndz6jQETn61Uvp8AeIJBwenlfvBeMsJWWzcnQ5Ghc2DQWINpcSu4OvaM6wZilg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\LearnToMultiply\\LearnToMultiply\\LearnToMultiply.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcin.rybinski\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\marcin.rybinski\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
